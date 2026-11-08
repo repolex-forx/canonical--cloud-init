@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "cloud-init",
+  "versions": [
+    {
+      "commit": "0d7893291a7e7c0c0cb2a087c107aef3fcb90b47",
+      "tag": "",
+      "parsed_at": "2026-11-08T15:12:35.322392+00:00"
+    }
+  ]
+}
