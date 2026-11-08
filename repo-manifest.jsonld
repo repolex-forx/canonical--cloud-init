@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/cloud-init/commit/0d7893291a7e7c0c0cb2a087c107aef3fcb90b47",
       "git:hexsha": "0d7893291a7e7c0c0cb2a087c107aef3fcb90b47",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T15:12:35.318255+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/cloud-init/commit/04f20d083ce47fcbae0c32fffd347f4ce4915077",
